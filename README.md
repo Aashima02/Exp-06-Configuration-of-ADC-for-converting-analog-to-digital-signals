@@ -1,7 +1,9 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 Name :	Aashima Nazreen Sayeed S
+
 Roll no: 212221240002
+
 Date of experiment : 06/11/2022
   
   
